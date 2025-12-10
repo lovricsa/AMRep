@@ -1,3 +1,10 @@
+# data should be downloaded seperately
+Data/CLUE/
+Data/CLUE_calculated/
+Data/RepurposingHub/
+Figures/
+Results/
+
 # History files
 .Rhistory
 .Rapp.history
